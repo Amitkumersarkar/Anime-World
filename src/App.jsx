@@ -19,7 +19,7 @@ function App() {
         <div >
           <img width="100%" src="Anime.PNG" alt="The Last Airbender" />
         </div>
-        <div className='font-mono font-semibold pt-6 '>
+        <div className='font-mono font-semibold pt-6 pb-10'>
           <h2>Avatar : The Last Airbender</h2>
           <h3>Rating : 9.3 </h3>
           <h3>Creators : Michael Dante DiMartino and Brayn Konietzko </h3>
