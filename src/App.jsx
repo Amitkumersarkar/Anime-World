@@ -22,7 +22,7 @@ function App() {
             <div className='pb-5'>
               <img width="90%" src="Anime.PNG" alt="The Last Airbender" />
             </div>
-            <h2>Avatar : The Last Airbender</h2>
+            <h2 className='text-2xl'>Avatar : The Last Airbender</h2>
             <h3>Rating : 9.3 </h3>
             <h3>Creators : Michael Dante DiMartino and Brayn Konietzko </h3>
             <p>
@@ -36,7 +36,7 @@ function App() {
             <div className='pb-5'>
               <img width="90%" src="Anime.PNG" alt="The Last Airbender" />
             </div>
-            <h2>Avatar : The Last Airbender</h2>
+            <h2 className='text-2xl'>Avatar : The Last Airbender</h2>
             <h3>Rating : 9.3 </h3>
             <h3>Creators : Michael Dante DiMartino and Brayn Konietzko </h3>
             <p>
@@ -50,7 +50,7 @@ function App() {
             <div className='pb-5'>
               <img width="90%" src="Anime.PNG" alt="The Last Airbender" />
             </div>
-            <h2>Avatar : The Last Airbender</h2>
+            <h2 className='text-2xl'>Avatar : The Last Airbender</h2>
             <h3>Rating : 9.3 </h3>
             <h3>Creators : Michael Dante DiMartino and Brayn Konietzko </h3>
             <p>
@@ -64,7 +64,7 @@ function App() {
             <div className='pb-5'>
               <img width="90%" src="Anime.PNG" alt="The Last Airbender" />
             </div>
-            <h2>Avatar : The Last Airbender</h2>
+            <h2 className='text-2xl'>Avatar : The Last Airbender</h2>
             <h3>Rating : 9.3 </h3>
             <h3>Creators : Michael Dante DiMartino and Brayn Konietzko </h3>
             <p>
