@@ -6,3 +6,10 @@
   list-style: none;
 
 }
+
+.s2 {
+  display: grid;
+  justify-content: space-between;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 30px;
+}
